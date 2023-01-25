@@ -1,0 +1,19 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl plane
+Ns 50
+Ka 0.20 0.20 0.40
+Kd 0.64 0.64 0.64
+Ks 0.50 0.50 0.50
+d 1
+illum 3
+
+
+newmtl zeppelin
+Ns 5
+Ka 0.5 0.5 0.1
+Kd 0.5 0.5 0.1
+Ks 0.1 0.1 0.1
+d 1
+illum 2

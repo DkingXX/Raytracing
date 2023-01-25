@@ -1,0 +1,13 @@
+/build/
+/*.ppm
+
+# visual studio 2019
+/.vs
+/x64
+/Debug
+/out
+
+# vscode
+/.vscode
+
+
